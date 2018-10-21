@@ -7,10 +7,7 @@
             ],
             "includePath": [
                 "${workspaceRoot}",
-                "/Applications/Arduino.app/hardware/tools/**",
-                "/Applications/Arduino.app/libraries/**",
-                "/Users/e/Documents/Arduino/hardware/**",
-                "/Users/e/Documents/Arduino/libraries/**"
+                "/Users/e/mpu6050/wiringPi/wiringPi"
             ],
             "forcedInclude": [],
             "intelliSenseMode": "clang-x64",
